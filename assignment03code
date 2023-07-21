@@ -1,0 +1,60 @@
+143  cd ..
+  144  mkdir Assignment03
+  145  cd assignment03
+  146  cd Assignment03
+  147  touch master.txt
+  148  git add.
+  149  git init
+  150  clear
+  151  ls
+  152  git add.
+  153  git add .
+  154  git commit .
+  155  git commit -m "master commit"
+  156  git branch
+  157  git branch Develop
+  158  git branch
+  159  git checkout Develop
+  160  touch develop.txt
+  161  ls
+  162  git add . && git commit -m "develop branch committed"
+  163  git status
+  164  git branch
+  165  git checkout -b feature1
+  166  touch f1.txt
+  167  git add. $$ commit -m "updated"
+  168  git add . $$ commit -m "updated"
+  169  git add . $$ git commit -m "updated"
+  170  git add . && git commit -m "updated"
+  171  git branch
+  172  git checkout -b feature2
+  173  git branch
+  174  ls
+  175  cd ..
+  176  ls
+  177  cd assignment03
+  178  cd Assignment03
+  179  git branch
+  180  git add . && git commit -m "feature2 commited"
+  181  git remote add origin https://github.com/emmanuel2knowdevops/GitAssignment03.git
+  182  git remote -v
+  183  git push --all
+  184  git branch -D feature2
+  185  git branch
+  186  checkout master
+  187  checkout branch master
+  188  git branch
+  189  checkout master
+  190  git checkout branch master
+  191  git branch --delete feature2
+  192  git checkout ..
+  193  git checkout feature2
+  194  git checkout master
+  195  git branch --delete feature2
+  196  git branch -D feature2
+  197  git branch
+  198  git push origin --delete feature2
+  199  git branch
+  200  history
+ubuntu@ip-172-31-25-74:~/Assignment03$ 
+
